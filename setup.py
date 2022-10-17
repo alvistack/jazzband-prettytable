@@ -7,6 +7,4 @@ def local_scheme(version: str) -> str:
     return ""
 
 
-setup(
-    use_scm_version={"local_scheme": local_scheme},
-)
+setup()

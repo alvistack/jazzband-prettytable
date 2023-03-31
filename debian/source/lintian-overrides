@@ -1,0 +1,5 @@
+python-prettytable source: file-without-copyright-information
+python-prettytable source: no-debian-changes
+python-prettytable source: source-contains-prebuilt-windows-binary
+python-prettytable source: source-is-missing
+python-prettytable source: source-package-encodes-python-version
